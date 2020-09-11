@@ -1,0 +1,13 @@
+{
+    "name": "weather app",
+    "short_name": "NYC",
+    "description": "Web app manifest.",
+    "start_url": "/?homescreen=1",
+    "background_color": "#000000",
+    "theme_color": "#0f4a73",
+    "icons": [{
+      "src": "icon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }]
+  }
